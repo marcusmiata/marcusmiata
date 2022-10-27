@@ -1,9 +1,6 @@
 ## Hey! I'm Marcus Vinicius Miata!
 
 - 🔭 I’m currently working at [ASCII Empresa Junior](https://www.asciiej.com.br).
-- 👯 I’m looking to collaborate on Open source projects.
-- 😄 Pronouns: He/Him/
-- ⚡ Fun fact: I like.
   
 #### Contacts:
 <div> 
